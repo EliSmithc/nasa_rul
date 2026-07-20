@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+cmapss/__init__.py
+cmapss/data.py
+cmapss.egg-info/PKG-INFO
+cmapss.egg-info/SOURCES.txt
+cmapss.egg-info/dependency_links.txt
+cmapss.egg-info/requires.txt
+cmapss.egg-info/top_level.txt

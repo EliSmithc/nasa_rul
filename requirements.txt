@@ -1,0 +1,3 @@
+# Install the project (and its dependencies) in editable mode:
+#   pip install -e .
+-e .

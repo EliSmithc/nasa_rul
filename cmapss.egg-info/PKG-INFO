@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: cmapss
+Version: 0.1.0
+Summary: Remaining useful life analysis on the NASA C-MAPSS turbofan dataset
+Requires-Python: >=3.13
+Requires-Dist: pandas

@@ -1,0 +1,13 @@
+[project]
+name = "cmapss"
+version = "0.1.0"
+description = "Remaining useful life analysis on the NASA C-MAPSS turbofan dataset"
+requires-python = ">=3.13"
+dependencies = ["pandas"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["cmapss"]
