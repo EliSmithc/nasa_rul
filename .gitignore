@@ -3,4 +3,4 @@ CMAPSSData/
 CMAPSSData.zip
 
 # virtual environment
-venv/
+.venv/
