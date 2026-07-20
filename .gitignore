@@ -4,3 +4,6 @@ CMAPSSData.zip
 
 # virtual environment
 .venv/
+
+# OS
+.DS_Store
